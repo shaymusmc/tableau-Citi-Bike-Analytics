@@ -21,8 +21,8 @@ Our initial review of age and gender demographics has not uncovered anything ala
 Data: It’s clear that the age data is compromised. The data below is truncated, as the full dataset has a lot of Citibike customers in the 100+ age range. Making the whole dataset suspect. Either we stop collecting birthdate, or find a more reliable way to collect and maintain this data.
 
 Marketing: Men make up a large majority of our clientele. If we are to change this, we need to find out why women are choosing not to use Citibike. 
- -Are pick-up and drop-off locations well-lit and are there CCTV cameras? If not, can we do something to improve lighting and safety?
- -Do women tend to commute by bike less? If so, what would lead them to start commuting by bike?
+1. Are pick-up and drop-off locations well-lit and are there CCTV cameras? If not, can we do something to improve lighting and safety?
+2. Do women tend to commute by bike less? If so, what would lead them to start commuting by bike?
 
 ## Map
 In viewing the below maps, on the left we have start locations and on the right, we have end locations. What’s cool to see is not just how often our Jersey City locations are used, but also how far some of our bikes make it throughout NYC and the boroughs; helping us to understand how our bikes are used.
